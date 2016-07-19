@@ -1,14 +1,14 @@
-layout_spectrum: 0.4911561505869031
-typography_spectrum: 0.5249407256487757
+layout_spectrum: 0.3700085759628564
+typography_spectrum: 0.2106389596592635
 color:
-  brandStrength: 0.674620209960267
-  lightness: 0.29641779512166977
-  saturation: 0.588369119213894
-  rhythmicContrast: 0.27812173194251955
+  brandStrength: 0.8026099454145879
+  lightness: 0.8826781918760389
+  saturation: 0.8541366970166564
+  rhythmicContrast: 0.13419543649069965
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
 name: craptastic
